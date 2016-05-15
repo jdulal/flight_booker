@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Flight Wizard</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- login activity -->
+    <string name="login_prompt">Flight Wizard</string>
+    <string name="login_button">Log In</string>
+
+    <!-- display_info/edit_info activity -->
+    <string name="info_title">Your information:\n</string>
+    <string name="change_info">Change Info</string>
+
+    <!-- profile_info/view_booked_itinerary activity -->
+    <string name="view_booked_itinerary">View Booked Itinerary</string>
+
+    <!-- detailed_itinerary -->
+    <string name="flight_num">Flight Number</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="total_time">Total time to get from origin to destination</string>
+    <string name="departure_date">Date of departure from origin</string>
+    <string name="arrival_date">Date of arrival at destination</string>
+    <string name="total_cost">Total cost of this flight</string>
+    <string name="remove_itinerary">Unbook Itinerary</string>
+
+    <!-- view_booked_itinerary activity -->
+    <string name="confirm_booked_itinerary">These are your current booked Itineraries</string>
+
+    <!-- profile_info/edit_personal_info activity -->
+    <string name="edit_personal_info">Edit Personal Info</string>
+
+    <!-- edit_info activity -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="title_activity_view_flights">ViewFlightsActivity</string>
+    <string name="title_activity_edit_flight">EditFlightActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_view_booked_itinerary">ViewBookedItineraryActivity</string>
+    <string name="title_activity_detailed_itinerary">DetailedItineraryActivity</string>
+    <string name="view_flights">View Flights</string>
+    <string name="view_itineraries">View Itineraries</string>
+
+    <!-- menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_logout">Logout</string>
+</resources>
+

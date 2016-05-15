@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="b07.cs.phase3" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EditPersonalInfoActivity"
+            android:label="Edit Personal Info" />
+        <activity
+            android:name=".ViewFlightsActivity"
+            android:label="Available Flights" />
+        <activity
+            android:name=".EditFlightActivity"
+            android:label="Edit Flight Info" />
+        <activity
+            android:name=".UploadActivity"
+            android:label="Upload A File" />
+        <activity
+            android:name=".EditInfoActivity"
+            android:label="Edit Info" />
+        <activity
+            android:name=".MainMenuActivity"
+            android:label="Main Menu" />
+        <activity
+            android:name=".ProfileActivity"
+            android:label="Profile" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="Search" />
+        <activity
+            android:name=".ViewBookedItineraryActivity"
+            android:label="Booked Itineraries" />
+        <activity
+            android:name=".DetailedItineraryActivity"
+            android:label="Itinerary Details" />
+        <activity
+            android:name=".ViewItinerariesActivity"
+            android:label="Itineraries" />
+    </application>
+
+</manifest>

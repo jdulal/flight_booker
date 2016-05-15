@@ -1,0 +1,4 @@
+Quibin,Nik,nikQ@mail.com,123 Kennedy Rd,1234567890,2016-11-11
+Lai,Edgar,laiE@mail.com,456 Warden Ave,0987654321,2017-10-10
+Therma,Vino,vinoT@mail.com,789 Victoria Park Ave,1092837465, 2018-09-09
+Sharma,Varun,varunS@mail.com,012 Main St,0987612345,2019-08-08
